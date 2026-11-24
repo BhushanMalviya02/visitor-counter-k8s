@@ -1,0 +1,2 @@
+# Visitor Counter Web App (Flask + Redis on Kubernetes)
+Containerized Flask + Redis visitor counter deployed on Kubernetes with HPA autoscaling (min 2, max 6), simulated hybrid cloud failover, and cost optimization.
